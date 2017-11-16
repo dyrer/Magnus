@@ -146,7 +146,7 @@ fieldset .fieldset-legend {
  * site name word size
  */
 .l-header {
-  background: #20252e;
+  background: rgba(255,255,255,0.9);
 }
 
 .l-header-inner {

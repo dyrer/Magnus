@@ -1,6 +1,6 @@
 type = theme
 name = Magnus
-description = A simple and elegant theme for Backdrop CMS.
+description = The awesome theme for Backdrop CMS.
 backdrop = 1.x
 version = BACKDROP_VERSION
 

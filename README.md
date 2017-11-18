@@ -1,4 +1,4 @@
-# Basis Theme
+# Magnus Theme
 Default theme in Backdrop.
 
 ## Responsive Strategy

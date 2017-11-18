@@ -17,7 +17,7 @@ body {
 }
 
 a {
-  color: #f16529;
+  color: #0074bd;
 }
 
 a:focus,
@@ -146,7 +146,7 @@ fieldset .fieldset-legend {
  * site name word size
  */
 .l-header {
-  background: rgba(255,255,255,0.9);
+  background: #20252e;
 }
 
 .l-header-inner {
@@ -1232,3 +1232,4 @@ ul.secondary li a:active {
 .font-style-normal {
   font-style: normal;
 }
+
